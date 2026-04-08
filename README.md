@@ -1,7 +1,7 @@
 # SLoRA: Balancing Plasticity and Forgetting in Large Language Models for Continual Learning
 This is the official implementation of the paper **"SLoRA: Balancing Plasticity and Forgetting in Large Language Models for Continual Learning"**.
 
-![SLoRA Framework Overview](img/slora.png)
+![SLoRA Framework Overview](img/method.png)
 *Figure 1: Overview of the SLoRA framework, illustrating the SLoRA-Pre and SLoRA-Post denoising pipelines.*
 
 ## 📝 Introduction
